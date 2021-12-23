@@ -1,0 +1,42 @@
+Fullstack:
+      => Full stack technology refers to the entire depth of computer application, about both the front end and the back end.
+      => full stack development deals with both frontend and backend web development.
+      => front end development deals with visible parts  application for web browser, mainly focus about client or site viewer , we see and interact
+      => backend development deals with code communicate with servers, database.
+      =>knowledge about both frontend and backend is called fullstack development.
+
+Technologies involved in fullstack development:
+     (i) frontend technologies:
+               HTML, CSS, Javascript, React are the basic technology for learning frontend technologies.
+     (ii) backend technologies:
+               PHP ,Python, JavaScript,Laravel, Django, MongoDB, MySQL are used for backend technologies.
+
+Roles and responsibilities of full stack development:
+      Role of fullstack developer is to be fluent in creating websites with internal architecture and delivering interactive and userfriendly interface to clients.
+      Responsiblities of fullstack developer helping with design and development of software
+      creating servers and database for the backend of the software.
+
+Network:
+      Network is formed when two or more computers linked together and share any of their data to any of their computer.
+      There are 5 types of Network, they are 
+             1.Local area network: Two computers linked together and share their data.
+             2.Metropolitical area network: All computers on a particular city or large campus linked together and share their data.
+             3.Wide Area Network: It covers long distance and link all the computer.
+             4.wireless network.It is a computer network that uses wireless data connections between network nodes.
+             5.Internetwork:Connect different networks by intermediate devices.
+
+Network topology:
+       It connects different computer in particular network.
+       Types of Network topology:
+             1.Bus Network:All devices are connected to a common cable.
+             2.Ring Network:All devices are connected to one another in the shape of closed loop.
+             3.Star Network:All hosts are connected to a central device known as hub device, using point to point connection.
+      these are the basic network topologies. 
+
+note:
+Sources used for this task
+https://bootcamp.learn.utoronto.ca/blog/what-is-a-full-stack-developer/
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fslideplayer.com%2F2604690%2F9%2Fimages%2Fslide_1.jpg&imgrefurl=https%3A%2F%2Fslideplayer.com%2Fslide%2F2604690%2F&tbnid=Bzr036Ul5yGw4M&vet=1&docid=Sm-21704lP_UfM&w=960&h=720&source=sh%2Fx%2Fim
+https://www.bbc.co.uk/bitesize/guides/zh4whyc/revision/3
+https://www.youtube.com/watch?v=baAWpmOThJQ
+https://www.youtube.com/watch?v=H1z_qNKoWgo&t=201s
